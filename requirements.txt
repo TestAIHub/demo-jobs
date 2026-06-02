@@ -1,2 +1,2 @@
-pandas000f
+pandas
 plotly
